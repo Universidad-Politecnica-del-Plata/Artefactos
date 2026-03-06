@@ -5,6 +5,8 @@ Artefactos para el desarrollo del sistema de gestión de la Universidad Politéc
 ## Estructura
 
 - **[Visión - UPP.docx](Visión%20-%20UPP.docx)** - Documento de visión del proyecto
+- **[Alcance del proyecto.pdf](Alcance%20del%20proyecto.pdf)** - Alcance del proyecto
+- **[Instructivo para deploy online.pdf](Instructivo%20para%20deploy%20online.pdf)** - Guía para despliegue en línea
 
 ### Análisis
 
@@ -16,6 +18,12 @@ Artefactos para el desarrollo del sistema de gestión de la Universidad Politéc
 - **[Historias](Historias/)** - User stories y casos de uso
   - User Story Map
   - Matriz de trazabilidad
+  - Historias de dominio
+    - Consulta de facturas
+    - Consulta información de carrera e inscripción a cursos
+    - Gestión académica
+    - Gestión de cursos
+    - Sedes y aulas
 
 ### Modelo
 
