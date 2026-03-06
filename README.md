@@ -8,28 +8,28 @@ Artefactos para el desarrollo del sistema de gestión de la Universidad Politéc
 
 ### Análisis
 
-- **[Analisis de Interesados/](Analisis%20de%20Interesados/)** - Análisis de stakeholders
+- **[Analisis de Interesados](Analisis%20de%20Interesados/)** - Análisis de stakeholders
   - Organigrama
   - Onion Model
   - Detalle de interesados
 
-- **[Historias/](Historias/)** - User stories y casos de uso
+- **[Historias](Historias/)** - User stories y casos de uso
   - User Story Map
   - Matriz de trazabilidad
 
 ### Modelo
 
-- **[Modelo de analisis/](Modelo%20de%20analisis/)** - Modelos de análisis del sistema
+- **[Modelo de analisis](Modelo%20de%20analisis/)** - Modelos de análisis del sistema
   - Modelo de dominio
   - Diagrama de contexto (C1)
   - Glosario de datos
   - Prototipo de interfaz
 
-- **[Modelo de Diseño/](Modelo%20de%20Diseño/)** - Modelos de diseño técnico
+- **[Modelo de Diseño](Modelo%20de%20Diseño/)** - Modelos de diseño técnico
   - Modelo de base de datos
   - Modelo de contenedores
   - Diagrama de componentes
 
 ### Gestión
 
-- **[Minutas de reunion/](Minutas%20de%20reunion/)** - Registro de reuniones con interesados
+- **[Minutas de reunion](Minutas%20de%20reunion/)** - Registro de reuniones con interesados
